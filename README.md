@@ -1,7 +1,7 @@
 
 # Project Description
 
-The Quest Aroma Café is your digital oasis for premium coffee blends and delectable bites. Dive into a world of rich aromas and flavors curated to elevate your coffee experience. At Quest Aroma Café, our website invites you on a journey through a scrollable home menu, showcasing our tantalizing coffee blends and mouthwatering bites. Learn more about our passion for perfection in the "About Us" section, where we share our story and dedication to quality. Need to get in touch? Find our contact details easily in the "Contact Us" section, where we're always ready to connect with fellow coffee enthusiasts.
+The Quest Aroma Café is your digital oasis for premium coffee blends and delectable bites. Dive into a world of rich aromas and flavors curated to elevate your coffee experience. At Quest Aroma Café, our website invites you on a journey through a scrollable home menu, showcasing our tantalizing coffee blends and mouthwatering bites. Learn more about our passion for perfection in the "About Us" section, where we share our story and dedication to quality. Need to get in touch? Find our contact details easily in the "Contact Us" section, where we're always ready to connect with fellow coffee enthusiasts. 
 
 ## Features
 + Home
@@ -17,7 +17,7 @@ Welcome to Quest Aroma Café's digital home, where every scroll unveils the esse
 
 ![Quest Aroma Cafe Home Page Best Seller](img/interface2.png)
 
-Discover our Best Sellers section, where we showcase the cream of the crop from our curated collection. Dive into a handpicked selection of products that have captured the hearts and taste buds of our customers. Each item comes with a concise name and a tantalizing description, offering you a glimpse into why these products are the talk of the town. Explore our Best Sellers and experience the finest offerings from our website.
+Discover our Best Sellers section, where we showcase the cream of the crop from our best collection. Dive into a handpicked selection of products that have captured the hearts and taste buds of our customers. Each item comes with a concise name and a tantalizing description, offering you a glimpse into why these products are the talk of the town. Explore our Best Sellers and experience the finest offerings from our website.
 
 ![Quest Aroma Cafe Home Page Footer](img/interface3.png)
 
