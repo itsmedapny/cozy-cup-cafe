@@ -4,10 +4,14 @@
 The Quest Aroma Café is your digital oasis for premium coffee blends and delectable bites. Dive into a world of rich aromas and flavors curated to elevate your coffee experience. At Quest Aroma Café, our website invites you on a journey through a scrollable home menu, showcasing our tantalizing coffee blends and mouthwatering bites. Learn more about our passion for perfection in the "About Us" section, where we share our story and dedication to quality. Need to get in touch? Find our contact details easily in the "Contact Us" section, where we're always ready to connect with fellow coffee enthusiasts. 
 
 ## Features
-+ Home
-+ Menu
-+ About Us 
-+ Contact Us 
++ Home Features - where you find the headers with navigation links of menu, about us, and contact us. It also consists of different buttons like best products, profile, and notification button. 
++ Menu Features - displaying the menu with categories such as breakfast, lunch, dinner, and beverages. Including details such as item names, descriptions, and prices. In this feature customers can easily find the menu with user-friendly interface. 
++ Best Seller Products Features - showcase a selection of the cafe's most popular or best-selling menu items.
++ About Us Features - sharing information about the cafe's history, mission, and values. Introducing the team behind the cafe.
++ Contact Us Features - clearly display the physical address of the cafe, provide a contact number, email address, social media, and submission for inquiries and feedback. 
++ Map Features - embed a map displaying the cafe's location to help customers easily find it.
++ Footer Features - create footer for all pages so that customers can easily see the social media icons and navigation links.
+
 
 ## Screen Captures
 
